@@ -8,3 +8,4 @@ https://www.youtube.com/watch?v=R0hipZXJjlI&t=277s
 https://www.youtube.com/watch?v=-HtiYHpqnBs
 
 # Part 3 - Train YOLOv3 to Detect Custom Objects pt.1: Collect Images
+https://www.youtube.com/watch?v=yXD5_W0JPuw
