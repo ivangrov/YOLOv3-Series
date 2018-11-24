@@ -1,0 +1,4 @@
+bus_doors
+bus_wheels
+people_faces
+rabbit
