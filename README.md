@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=-HtiYHpqnBs
 https://www.youtube.com/watch?v=yXD5_W0JPuw
 
 # Part 4 - Label Training Images for YOLOv3
+https://youtu.be/kmgocZpidU8
+
+# Part 5 - Start Training YOLOv3
+https://youtu.be/TP67icLSt1Y
